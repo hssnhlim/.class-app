@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Consists features like:
+- Google Classroom
+- Zoom Video Conference Meeting
+- Chatbot AI from OpenAI
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
